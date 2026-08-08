@@ -4,6 +4,15 @@
 
 Laravel is a PHP web application framework that makes web development easier and more organized by providing built-in tools for common development tasks. Client-Server Technologies are important because they allow users and applications to communicate with servers that process requests, manage data, and provide responses. The purpose of this project is to practice setting up a Laravel development environment and creating a basic Laravel application while learning how PHP, Composer, Laravel, Git, MySQL 8.0, XAMPP, and Visual Studio Code work together. The project also demonstrates creating and customizing a Laravel homepage and managing the project using Git and GitHub.
 
+## Project Features
+
+- Laravel development environment setup
+- Customized Hello Laravel homepage
+- Application information route
+- MySQL 8.0 database environment
+- Git and GitHub version control
+- Documented installation and configuration process
+
 ## Objectives
 
 * To install and configure the required tools for Laravel development, including PHP, Composer, Laravel, Git, MySQL 8.0, XAMPP, and Visual Studio Code.
